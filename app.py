@@ -14,5 +14,5 @@ if st.button('PREDICT'):
   st.title(op[0])  #prints the output as spam or ham  
 
   
-  
+            
   
